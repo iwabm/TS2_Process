@@ -4,9 +4,8 @@ This is the TS2 Process page
 
 ## Faculty
 
-Studio Professor: Jess Irish
-
-Writing Professor: Danielle Jackson
+- Studio Professor: Jess Irish
+- Writing Professor: Danielle Jackson
 
 ## TS1 Files
 
