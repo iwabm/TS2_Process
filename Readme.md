@@ -1,8 +1,8 @@
-* Masaki Iwabuchi's TS2 Process page
+# Masaki Iwabuchi's TS2 Process page
 
 MFADT at Parsons School of Design
 
-** Facluty
+## Facluty
 
 Studio Professor: Jess Irish
 
